@@ -1,0 +1,12 @@
+echo "Inicio do script"
+mkdir gitscript
+cd gitscript
+echo "Teste script" > teste.txt
+tar -czf scriptzipgit.tar.gz teste/
+git init
+
+
+
+
+
+
